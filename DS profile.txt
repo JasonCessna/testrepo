@@ -1,0 +1,8 @@
+Area Rank
+1 Computer Programming 5
+2 Math 4
+3 Statistics 2
+4 Machine Learning 2
+5 Domain Expertise 5
+6 Communication and Presentation Skills 4
+7 Data Visualization 3
