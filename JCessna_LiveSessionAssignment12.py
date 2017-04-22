@@ -44,12 +44,4 @@ sns.pairplot(iris,hue='Species')
 
 
 
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
 
